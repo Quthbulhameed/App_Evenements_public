@@ -8,16 +8,7 @@
     align-items: center;
     flex-wrap: wrap;
   }
-  .collection-container-active{
-    color:#3d405b;
-    margin-top: 2rem;
-    font-weight: 600;
-    overflow-y: hidden;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-  }
+
   
   .pokemon-name {
     margin-top: 0.5rem;
@@ -74,16 +65,7 @@
   }
   
   
-  
-  
-  
-  .btn {
-    width: 50%;
-    margin-top: 1.5rem;
-    display:flex;
-    justify-content: space-around;
-  }
-  
+
   
   button {
     cursor: pointer;
